@@ -1,0 +1,2 @@
+add realistic character controller scripts to our gorilla prefab -- Fri by 11pm (estimate: 6 hrs)
+Add static hurdles and obstacles to the tree at different heights but with flow -- Fri by 11pm (estimate: 5 hr)
